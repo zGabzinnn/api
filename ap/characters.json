@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Arthur Morgan",
+        "game": "Red Dead Redemption 2",
+        "description": "Protagonista de Red Dead Redemption 2, membro da gangue de Dutch van der Linde.",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/ac/Arthur_Morgan_-_Red_Dead_Redemption_2.png/170px-Arthur_Morgan_-_Red_Dead_Redemption_2.png"
+    },
+    {
+        "name": "John Marston",
+        "game": "Red Dead Redemption",
+        "description": "Protagonista de Red Dead Redemption e membro da gangue de Dutch van der Linde.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ncH2zwjDmIdLCPfckW23cnUwrq5nKN2PP_VRNtPZ6w&s"
+    },
+    {
+        "name": "Dutch van der Linde",
+        "game": "Red Dead Redemption 1 e 2",
+        "description": "Líder carismático da gangue de Dutch van der Linde.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2FXTbdavxmeuZ_IcShrY22-7fU3YyO0UXMjUObVfCg&s"
+    },
+    {
+        "name": "Hosea Matthews",
+        "game": "Red Dead Redemption 2",
+        "description": "Mentor e co-fundador da gangue de Dutch van der Linde.",
+        "image": "https://www.filmsjackets.com/image/catalog/red-dead-redemption-2-hosea-matthews-grey-trench-coat/red-dead-redemption-2-hosea-matthews-grey-trench-coat.jpg"
+    },
+    {
+        "name": "Micah Bell",
+        "game": "Red Dead Redemption 2",
+        "description": "Membro traiçoeiro da gangue de Dutch van der Linde.",
+        "image": "https://www.filmsjackets.com/image/catalog/red-dead-redemption-2-micah-bell-leather-coat/red-dead-redemption-2-micah-leather-coat.jpg"
+    },
+    {
+        "name": "Mary Linton",
+        "game": "Red Dead Redemption 2",
+        "description": "Amor do protagonista, Arthur Morgan, em Red Dead Redemption 2.",
+        "image": "https://live.staticflickr.com/65535/49240078162_a3fdd50ec1_c.jpg"
+    },
+    {
+        "name": "Josiah Trelawny",
+        "game": "Red Dead Redemption 2",
+        "description": "Membro misterioso da gangue de Dutch van der Linde.",
+        "image": "https://pm1.aminoapps.com/7592/b4a0400d8af87e1fe940265f5c68af4b8719d176r1-243-856v2_uhq.jpg"
+    },
+    {
+        "name": "Andrew Milton",
+        "game": "Red Dead Redemption 2",
+        "description": "Agente federal obcecado em capturar a gangue de Dutch van der Linde.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmCjWs4a7jSVCMQPkilyPBFJ5ufvd9zQjcex7lLiTIg&s"
+    },
+    {
+        "name": "Angelo Bronte",
+        "game": "Red Dead Redemption 2",
+        "description": "Chefe do submundo de Saint Denis.",
+        "image": "https://preview.redd.it/an-inspiration-for-angelo-bronte-v0-4zwnwxztx1lb1.jpg?width=256&format=pjpg&auto=webp&s=677a9beb19d83112ee9f71a157022a6c7c73eea1"
+    },
+    {
+        "name": "Jack Marston",
+        "game": "Red Dead Redemption 2",
+        "description": "Filho de John Marston e Abigail Marston.",
+        "image": "https://assets.mycast.io/characters/73848_normal.jpg?1543713601"
+    },
+    {
+        "name": "Colm O'Driscoll",
+        "game": "Red Dead Redemption 2",
+        "description": "Líder da gangue rival, O'Driscoll Boys.",
+        "image": "https://64.media.tumblr.com/8e1c43f3d5532c154a932c1f10bb2564/ee6f397ad98db9a3-01/s1280x1920/9fc72f8563ab619fb76f539017f2e5bb026f4b1a.jpg"
+    },
+    {
+        "name": "Leviticus Cornwall",
+        "game": "Red Dead Redemption 2",
+        "description": "Industrialista poderoso e antagonista em Red Dead Redemption 2.",
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/07/leviticus.jpg"
+    }
+]
+
+
+
